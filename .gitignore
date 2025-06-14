@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Flask instance folder
+instance/
+
+# Pytest cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Python dotenv environment variables file
+.env
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Others
+*.egg
+*.wheel
+
+# macOS
+.DS_Store
