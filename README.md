@@ -54,7 +54,3 @@ The backend uses a CSV file (`company_expenses.csv`) located in the `backend` di
 ## Author
 
 Developed by [Dilshod Normurodov](https://github.com/dilshod1405).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
